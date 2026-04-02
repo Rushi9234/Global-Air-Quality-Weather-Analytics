@@ -191,12 +191,3 @@ LinkedIn: [rushikesh-kedar](https://linkedin.com/in/rushikesh-kedar-87106b373)
 For academic and portfolio purposes only.
 ```
 
----
-
-Now create the repo on Rushi9234:
-
-**Name:** `Global-Air-Quality-Weather-Analytics`
-
-**Description:**
-```
-End-to-end EDA project | PM2.5 prediction across 5 global cities | 22 visualisations | Random Forest · XGBoost · LightGBM · Apriori
