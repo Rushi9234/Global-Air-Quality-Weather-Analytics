@@ -13,9 +13,9 @@ guided EDA project in the 2nd year of B.Tech CSE at MITAOE Pune.
 | Rushikesh Kedar |
 | Akash Bhuyan |
 | Rahul Atkare |
-| Sujal |
+| Sujal Khandelwal|
 
-**Guided by:** Shubhangi Ma'am & Dr. Vaishali Wangikar Ma'am
+**Guided by:** Dr. Shubhangi Kale Ma'am & Dr. Vaishali Wangikar Ma'am
 MIT Academy of Engineering, Pune
 
 ---
